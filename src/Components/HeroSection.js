@@ -1,4 +1,4 @@
-import imgs from "../Header Image.png";
+import imgs from "../assets/Header Image.png";
 import { Col, Container, Row } from "react-bootstrap";
 import React from "react";
 

@@ -4,7 +4,7 @@ import { AiOutlineMenu } from "react-icons/ai";
 import { GrClose } from "react-icons/gr";
 import { AiOutlineSearch } from "react-icons/ai";
 import { SlBasket } from "react-icons/sl";
-import logo from "../UI.desk.png";
+import logo from "../assets/UI.desk.png";
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);

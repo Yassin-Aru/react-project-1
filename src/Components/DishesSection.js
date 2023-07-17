@@ -1,6 +1,6 @@
-import Dishes1 from "../Dishes1.png";
-import Dishes2 from "../Dishes2.png";
-import Dishes3 from "../Dishes3.png";
+import Dishes1 from "../assets/Dishes1.png";
+import Dishes2 from "../assets/Dishes2.png";
+import Dishes3 from "../assets/Dishes3.png";
 import { Col, Row } from "react-bootstrap";
 
 import React from "react";

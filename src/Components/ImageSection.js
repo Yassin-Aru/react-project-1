@@ -1,7 +1,7 @@
 import { Col, Container, Row } from "react-bootstrap";
 import { AiFillCheckSquare } from "react-icons/ai";
-import imgs2 from "../image.png";
-import imgsToga from "../toga.png";
+import imgs2 from "../assets/image.png";
+import imgsToga from "../assets/toga.png";
 import React from "react";
 
 const ImageSection = () => {
